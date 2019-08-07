@@ -14,6 +14,9 @@ Emotions recognition by using facial images for real-time aircraft systems
 
 
 % Output Images
+
+
+
 ![angry](https://user-images.githubusercontent.com/35194791/62648447-7b1a6280-b95b-11e9-8121-1a870816b209.JPG)
 ![fear](https://user-images.githubusercontent.com/35194791/62648458-84a3ca80-b95b-11e9-9172-c38dbf269cf0.JPG)
 ![happy](https://user-images.githubusercontent.com/35194791/62648479-8d949c00-b95b-11e9-90c5-f92bbc7ffab2.JPG)
