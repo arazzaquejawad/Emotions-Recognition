@@ -4,13 +4,13 @@ Emotions recognition by using facial images for real-time aircraft systems
 
 % Dataset Labels
 
-0: Angry
-1: Disgust
-2: Fear
-3: Happy
-4: Sad
-5: Surprise
-6: Neutral
+0: Angry<br/>
+1: Disgust<br/>
+2: Fear<br/>
+3: Happy<br/>
+4: Sad<br/>
+5: Surprise<br/>
+6: Neutral<br/>
 
 
 % Output Images
