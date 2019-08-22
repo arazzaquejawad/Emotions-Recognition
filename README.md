@@ -78,8 +78,7 @@ Emotions recognition by using facial images for real-time aircraft systems
   6: Neutral<br/>
   
   ![image](https://user-images.githubusercontent.com/35194791/63518331-3e796a00-c50a-11e9-8e50-c12bfe621176.png)
-  ![image](https://user-images.githubusercontent.com/35194791/63518303-30c3e480-c50a-11e9-8a50-e18c7903622e.png)
-
+  ![image](https://user-images.githubusercontent.com/35194791/63518407-6668cd80-c50a-11e9-809f-26deafcf22ac.png)
 
 
 % Output Images
